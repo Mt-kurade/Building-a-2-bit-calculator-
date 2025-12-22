@@ -5,7 +5,9 @@ Computer science logic: representing throguh logic gates
 ## Introducing half adder:
 A half adder is a basic digital circuit that *adds two one bits* (Take X and Y), to produce a Sum (S) and a carry (C).
 
-<img width="984" height="311" alt="image" src="https://github.com/user-attachments/assets/3c5438eb-ba17-4389-8d1d-38d2d56be098" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c5438eb-ba17-4389-8d1d-38d2d56be098" width="600">
+</p>
 
 To represent these with logic gates, we need to be introduced to the XOR and AND gate:
 
