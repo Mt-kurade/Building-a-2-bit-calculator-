@@ -74,7 +74,12 @@ and this works perfect as 1 + 1 = 2, which is binary is 10, while 1 + 0 is just 
 ---
 
 ## Introducing the Full Adder 
-A full adder is able to add three 1 bit inputs to produce a sum and carry bit. But a full adder wont be possible without the carry bit of the past calculation. Without a carry bit, it wont be able to add the three numbers, making it relient on either another full adder or a half adder.
+A full adder is able to add three 1 bit inputs to produce a sum and carry bit. But one of the inputs needs to be a carry bit of the past calculation. This can be done by taking the carry bit of either another full adder or a half adder.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09eef0ef-afb4-4493-afb3-7b48d3cd0107" width="569">
+</p>
+
 
 
 
