@@ -16,4 +16,12 @@ XOR Gate truth table:
 | 0  | 0 | 0  |
 | 0  | 1  | 1 |
 | 1  | 0  | 1  |
-| 1  | 1  | 0  |
+| 1  | 1  | 0  | 
+
+*Constructed using AND, OR and NOT, (first row of the truth table below)* 
+<img width="1459" height="407" alt="image" src="https://github.com/user-attachments/assets/40e873ad-23ba-44e7-88d2-a92614d03cba" />
+
+An AND gate
+
+
+
