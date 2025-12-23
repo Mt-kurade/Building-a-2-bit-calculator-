@@ -80,6 +80,6 @@ A full adder is able to add three 1 bit inputs to produce a sum and carry bit. B
   <img src="https://github.com/user-attachments/assets/09eef0ef-afb4-4493-afb3-7b48d3cd0107" width="569">
 </p>
 
-
+The Logic gate diagram of this would look like this:
 
 
