@@ -82,4 +82,8 @@ A full adder is able to add three 1 bit inputs to produce a sum and carry bit. B
 
 The Logic gate diagram of this would look like this:
 
+# Logic of a 2 bit calculator 
+
+A 2 bit calcultor is nothing more than a half adder and a full adder for binary addition. 
+
 
